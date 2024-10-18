@@ -1,0 +1,23 @@
+Instructions: Double click the app or right click it and select "open" to run the app
+
+
+- first install python3 if not installed already using the following link:
+
+  https://www.python.org/downloads/
+
+
+- run the shell script called "shell.command"
+
+  if that does not work then open terminal and copy and paste the following code and click enter once pasted:
+
+# Install required modules
+pip3 install tkinter
+pip3 install pandas
+
+# Install additional macOS-specific modules
+pip3 install pyobjc-core
+pip3 install pyobjc-framework-Cocoa
+
+- now try to run the app but if that still doesn't work, then open "RoomMate.py" with the python launcher by right clicking the file, selecting open with, then clicking python launcher
+
+- If you still need any help, check out the user guide or feel free to contact us
